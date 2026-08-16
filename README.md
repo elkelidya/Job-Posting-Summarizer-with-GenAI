@@ -21,8 +21,8 @@ The top required skills are:
 - Program: PowerBI, Tableau
 - Microsoft Office: Excel
 - Cloud: Azure, Snowflake, AWS
-![](./spec/data_analyst_top_skills.jpg)
+![](./data_analyst_top_skills.jpg)
 
 As for education requirements, most jobs still require a Bachelor's degree in Computer Science, followed by Information Systems then Statistics.
-![](./spec/data_analyst_top_education_level.jpg)
-![](./spec/data_analyst_top_education_background.jpg)
+![](./data_analyst_top_education_level.jpg)
+![](./data_analyst_top_education_background.jpg)

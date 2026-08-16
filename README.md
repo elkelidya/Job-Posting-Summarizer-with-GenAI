@@ -2,7 +2,7 @@
 
 This program helps prospective tech employees identify which programming languages, infrastructure, and/or software to master by summarizing hundreds of job postings using the help of GenAI.
 
-This program requires
+This program requires Python installed and an OpenAI API account.
 
 **Note**: always check the job search website policy on web scraping before performing any web scraping. The code in this project is for educational purposes only.
 
